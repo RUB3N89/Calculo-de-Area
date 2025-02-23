@@ -9,3 +9,6 @@ public staKc double rectangleArea(double length, double width) {
     return length * width;
     }
 }
+public static double triangleArea(double base, double height) {
+    return (base * height) / 2;
+}
